@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello, there (possibly a reference :wink:)
 
-<!--
-**stanczyk280/stanczyk280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :man_student: Right now a student at [Nicolaus University in Toruń](https://www.fizyka.umk.pl/)
+- Most accustomed with: 
+  -  ![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
+  -  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+- 🌱 I’m currently learning:
+  -  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  -  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+- 🤔 I’m looking for help with NoSql Databases and webapps developement
+- :speech_balloon: Reachable at: bartek.grabowski.280@gmail.com
+- - ⚡ Fun fact: :video_game: Avid Gamer and a father to two :cat: cats and a :dog: dog
+- Happy to learn anything!
