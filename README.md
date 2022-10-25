@@ -11,7 +11,7 @@
 - :speech_balloon: Reachable at: bartek.grabowski.280@gmail.com
 - - ⚡ Fun fact: :video_game: Avid Gamer and a father to two :cat: cats and a :dog: dog
 - Happy to learn anything!
-- 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanczyk280)](https://github.com/stanczyk280/github-readme-stats)
 
 
