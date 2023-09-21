@@ -13,7 +13,3 @@
 - :speech_balloon: Reachable at: bartek.grabowski.280@gmail.com or at Discord: dustwrld
 - ⚡ Fun fact: :video_game: Avid Gamer, a father to two :cat: cats, a :dog: dog and two :crocodile: gekos
 - Happy to learn anything!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanczyk280)](https://github.com/stanczyk280/github-readme-stats)
-
-
