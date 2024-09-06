@@ -1,7 +1,8 @@
 ## Hello, there (possibly a reference :wink:)
 
 - :man_student: Right now a student at [Nicolaus University in Toruń](https://www.fizyka.umk.pl/)
-- Most accustomed with: 
+- Most accustomed with:
+  -  ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533)
   -  ![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
   -  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 - 🌱 I’m currently learning:
